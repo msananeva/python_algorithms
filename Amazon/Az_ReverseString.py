@@ -6,9 +6,7 @@ str = "Best candidates"
 #     return " ".join(reversed(s.split()))
 #
 # reversed = reverseString(str)
-#
-# print(reversed)  # candidates Best
 
 reversed = " ".join(reversed(str.split()))
 
-print(reversed)
+print(reversed)  # candidates Best

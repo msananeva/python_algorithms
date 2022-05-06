@@ -10,14 +10,3 @@ def letters():
 
 for letter in letters():
     print(letter)
-
-#__________________________________________________
-    def g():
-        yield 1
-        yield 2
-        yield 3
-
-    print(g())
-
-    for x in g():
-        print(x)

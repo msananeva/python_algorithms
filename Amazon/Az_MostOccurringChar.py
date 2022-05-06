@@ -2,11 +2,11 @@ input = "Aaaaabbbbbcc".lower()
 
 def mostOcurringChar(x):
     all_freq = {}
-    for i in input:
-        if i in all_freq:
-            all_freq[i] += 1
+    for char in x:
+        if char in all_freq:
+            all_freq[char] += 1
         else:
-            all_freq[i] = 1
+            all_freq[char] = 1
     return max(all_freq, key=all_freq.get)
 
 print("Most occurring char: ", mostOcurringChar(input))

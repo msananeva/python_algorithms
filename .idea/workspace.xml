@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc3b8f0d-8e63-4e55-b4f6-7d3d1d456fc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Amazon/Az_AA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/Az_LenOfLastWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_AllPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_AllPairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_DuplicatesInAString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_DuplicatesInAString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_MostOccurringChar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_MostOccurringChar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_Move0ToEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_Move0ToEnd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_MoveAToEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_MoveAToEnd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_PalindromeNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_PalindromeNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_PalindromeString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_PalindromeString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_PrimeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_PrimeNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_RandomShuffleArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_RandomShuffleArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_ReverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_ReverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_RotateString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_RotateString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_SecondLowestNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_SecondLowestNum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Az_TriangleOfNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_TriangleOfNumbers.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28S1ixUkPSSwdNwjR8lPvjYVa77" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Amazon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Az_AllPairs">
+    <configuration name="Az_AA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_AA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Az_AllPairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_AllPairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Az_DuplicatesInAString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_DuplicatesInAString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Az_MoveAToEnd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_MoveAToEnd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Az_SecondLowestNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_SecondLowestNum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Az_AllPairs" />
+        <item itemvalue="Python.Az_AA" />
+        <item itemvalue="Python.Az_DuplicatesInAString" />
+        <item itemvalue="Python.Az_MoveAToEnd" />
+        <item itemvalue="Python.Az_SecondLowestNum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc3b8f0d-8e63-4e55-b4f6-7d3d1d456fc0" name="Changes" comment="" />
+      <created>1651195304088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651195304088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
