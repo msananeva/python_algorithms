@@ -1,5 +1,8 @@
 input = "Aaaaabbbbbcc".lower()
 
+# edge case - spaces
+#input_no_spaces = "".join(input.split())
+
 def mostOcurringChar(x):
     all_freq = {}
     for char in x:
@@ -13,11 +16,11 @@ print("Most occurring char: ", mostOcurringChar(input))
 
 #________________________________________________________________
 
-from collections import Counter
-
-str = "AAAAAaaaBbbbcdddDDDdddd".lower()
-
-result = Counter(str)
-result = max(result, key=result.get)
-
-print("Most frequent character: ", result)
+# from collections import Counter
+#
+# str = "AAAAAaaaBbbbcdddDDDdddd".lower()
+#
+# result = Counter(str)
+# result = max(result, key=result.get)
+#
+# print("Most frequent character: ", result)

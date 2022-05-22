@@ -1,21 +1,20 @@
 """ Palindrome Number"""
 
-num = 121
-
-str = str(num)
-strReversed = "".join(reversed(str))
-num2 = int(strReversed)
+input = 121
 
 
 def isPalindrome(x):
     if x < 0:
         return False
-    if num == num2:
+    # if x < 0:  #convert to positive
+    #     x = x * -1 OR x = abs(x)
+    to_string = str(x)
+    if to_string == to_string[::-1]:
         return True
     else:
         return False
 
-print(isPalindrome(num))
+print(isPalindrome(input))
 
 #__________________________________________________
 

@@ -1,19 +1,28 @@
-""" Given Aaabbbcc, return a3b3c2 """
+"""
+Given Aaabbbcc, return 3a3b2c
+https://www.youtube.com/watch?v=mjZpZ_wcYFg
+"""
+input = "aaabbbcc"
 
-input = "Aaabbbcc".lower()
 
 def addNumsToStr(x):
-    result = ""
-    count = 1
+    result = []
+
+    prevChar = ""
+    count = 0
+
+    # iterate over input
     for char in x:
-        if char in result:
+        if char == prevChar:
             count += 1
         else:
-            result += char
-            result += str(count)
+            if prevChar != "":  # skip first char
+                result.append(count)
+                result.append(prevChar)
+            prevChar = char
             count = 1
-
+    result.append(count)  # add last char and count
+    result.append(prevChar)
     return result
-
 
 print(addNumsToStr(input))

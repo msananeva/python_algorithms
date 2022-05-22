@@ -1,12 +1,10 @@
 """ Reverse a String """
 
-str = "Best candidates"
+input = "Best candidates"
 
-# def reverseString(s):
-#     return " ".join(reversed(s.split()))
-#
-# reversed = reverseString(str)
+def reverseString(s):
+    return "".join(reversed(s))
+    # return s[::-1] # setadidnac tseB
 
-reversed = " ".join(reversed(str.split()))
 
-print(reversed)  # candidates Best
+print(reverseString(input))  # setadidnac tseB
