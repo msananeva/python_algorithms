@@ -5,7 +5,10 @@ s1 = "Hello "
 s2 = "lloeh"
 
 def anagram(s1, s2):
-    if sorted(s1.strip().lower()) == sorted(s2.strip().lower()):
+    #  remove spaces at the beginning and at the end of the string
+    x = s1.strip().lower()
+    y = s2.strip().lower()
+    if sorted(x) == sorted(y):
         return True
     else:
         return False

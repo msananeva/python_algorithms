@@ -2,22 +2,18 @@
 Find the two numbers that add to the passed in sum. Input: list and a sum
 """
 
-input = [1, 10, 9, 4]
-k = 5
+input = [3, 2, 10, 9, 4]
+k = 6
+
+
+# if I need indexes
 
 def sum(x,k):
-    for i in x:
-        for j in x:
-            if i+j == k:
-                return i,j
+    l = len(x)
+    for i in range(l):
+        for j in range(i+1, l):
+            if x[i] + x[j] == k:
+                return x[i], x[j]
 
 print(sum(input,k))
-
-def ind(x,k):
-    for i in range(len(x)):
-        for j in range(len(x)):
-            if x[i] + x[j] == k:
-                return [i, j]
-
-print(ind(input,k))
 

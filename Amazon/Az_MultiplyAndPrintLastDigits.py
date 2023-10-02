@@ -1,4 +1,4 @@
-""" Given an array of n length containing number 1 to 99 .
+""" Given an array of n length containing numbers 1 to 99 .
 print last 2 digits of result
 after multiplying all the n numbers in array.
  """

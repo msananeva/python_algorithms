@@ -11,8 +11,8 @@ input = "This is an awesome string"
 # should we include space?
 # no duplicates
 
-def dupEl(x):
-    all_freq = []
+def dups(x):
+    dups = []
 
     if len(x) == 0:
         return "The string is empty"
@@ -21,11 +21,9 @@ def dupEl(x):
         return x[0]
 
     else:
-        for el in x:
-            if x.count(el) > 1 and el not in all_freq:
-                all_freq.append(el)
-                return all_freq
-            else:
-                return "There are no dups"
+        for char in x:
+            if x.count(char) > 1 and char not in dups:
+                dups.append(char)
+        return dups
 
-print(dupEl(input))
+print(dups(input))

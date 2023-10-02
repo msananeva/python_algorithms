@@ -4,25 +4,30 @@ https://www.youtube.com/watch?v=mjZpZ_wcYFg
 """
 input = "aaabbbcc"
 
+# empty string
+# case sensitive?
 
 def addNumsToStr(x):
-    result = []
+    if x == "" or len(x) == 0:
+        return ""
 
+    # declare the previous character variable
     prevChar = ""
     count = 0
-
-    # iterate over input
+    result = ""
     for char in x:
         if char == prevChar:
             count += 1
-        else:
-            if prevChar != "":  # skip first char
-                result.append(count)
-                result.append(prevChar)
+        elif prevChar == "":  # skip first char
             prevChar = char
             count = 1
-    result.append(count)  # add last char and count
-    result.append(prevChar)
+        else:
+            result += str(count)
+            result += char
+            prevChar = char
+            count = 1
+    result += str(count)  # add last char and count
+    result += char
     return result
 
 print(addNumsToStr(input))

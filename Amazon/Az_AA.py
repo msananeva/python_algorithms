@@ -1,11 +1,11 @@
 """
-Write function that returns nth number in a Fibonacci sequence
-
+Given Aaabbbcc, return 3a3b2c
+https://www.youtube.com/watch?v=mjZpZ_wcYFg
 """
-# fib = 1, 1, 2, 3, 5, 8, 13, 21 ...
-input = [3, 5, 8]
-k = 4
 
-def fibonacci(x):
-    x = (x-1) + (x-2)
+
+
+
+
+
 

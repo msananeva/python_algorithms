@@ -6,7 +6,8 @@ Return a1b2c3
 
 input = "Aaaaabbbbbccc".lower()
 
-#  Return a str without dups
+# Return a str without dups
+# Case sensitive
 
 def strNoDupsWithDigits(x):
     result = ""

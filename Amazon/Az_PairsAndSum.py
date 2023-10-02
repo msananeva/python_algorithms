@@ -32,7 +32,8 @@ def pairs(x, sum):
 
     if len(all_pairs) == 0:
         print("no pairs of this sum " + format(s) + " in the given arr")
-    if len(all_pairs) > 0:
-        return all_pairs
+    else:
+        if len(all_pairs) > 0:
+            return all_pairs
 
 print(pairs(input, s))

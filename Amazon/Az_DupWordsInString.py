@@ -2,13 +2,20 @@
 
 input = "Sandy is the best dog. We love Sandy so much!"
 
-def dupWordsInString(x):
-    str_to_arr = x.split()
-    result = []
-    for word in str_to_arr:
-        occur = str_to_arr.count(word)
-        if occur > 1 and word not in result:
-            result.append(word)
-    return result
+# no dup words
+# upper case lower case matter?
+# do we want to count a 1 char word as word?
+# empty string
 
-print(dupWordsInString(input))
+def dups(input):
+    x = input.split()
+    result = []
+    for word in x:
+        if x.count(word) > 1 and word not in result:
+            result.append(word)
+            return result
+        else:
+            return "No duplicates"
+
+
+print(dups(input))

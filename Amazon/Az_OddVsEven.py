@@ -7,7 +7,7 @@ where one has all odd numbers and the other has all even numbers
 input = [1, 0, 15, 2, 22, 22, 3, 4]
 
 # duplicates?
-# 0 is even or not odd nor even? Let agree it's non of those
+# 0 is even or not odd nor even? Let agree it's none of those
 
 def oddVsEven(x):
     odd = []

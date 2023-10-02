@@ -2,6 +2,11 @@
 
 input = "Aaaaaabccccd11".lower()
 
+#  empty string
+#  case insensitive
+#  no dups
+#  string len == 1
+
 def allDups(x):
     all_freq = {}
     arr = []

@@ -7,20 +7,21 @@ from splitting the given string using the character as delimeter "
 
 
 
-stri = "PythonPython"
+input = "PythonPython"
 de = "t"
-a = []
 
-def split_string(s, d):
 
+def split_string(x, d):
+    result = []
     temp = ""
-    for i in s:
-        if i == d:
-            a.append(temp)
+    for char in x:
+        if char == d:
+            result.append(temp)
             temp = ""
         else:
-            temp = temp + i
-    return a
+            temp = temp + char
+    result.append(temp)
+    return result
 
 
-print(split_string(stri, de))
+print(split_string(input, de))

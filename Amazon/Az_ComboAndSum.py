@@ -6,28 +6,31 @@ as well as the sum of the digits. (Example: Input: 111 Output: 111:3)
 # if needed to return ALL
 
 input = [1, 2, 3]
-l = len(input)
+
+# empty input
+# what if all digits are the same
 
 def shuffleAndSum(x):
-    arr = []
-    s = 0
+    # declare the sum of nums in array
+    sum = 0
+    result = []
+    l = len(x)
+    #  using the nested for loop to iterate over element in 3 digit array
     for i in range(l):
+        sum += x[i]
         for j in range(l):
             for k in range(l):
-                if x[i] != x[j] and x[j] != x[k] and x[i] != x[k]:
+                if x[i] != x[j] and x[j]!= x[k] and x[i] != x[k]:
                     tuple = (x[i], x[j], x[k])
-                    if tuple not in arr:
-                        arr.append(tuple)
+                    if tuple not in result and list(tuple) != x:
+                        result.append(tuple)
+    #  if all digits are the same
+    if len(result) == 0:
+        result = x
 
-    for i in range(l):
-        s += x[i]
-
-    return arr, s
+    return result, sum
 
 print(shuffleAndSum(input))
-
-
-
 
 
 import random

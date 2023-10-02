@@ -2,7 +2,7 @@
 Write a function that finds the characters in array that appear an odd number of times
 """
 
-input = ["a", "b", "c", "d", "a" ]
+input = ["a", "b", "c", "d", "a"]
 
 def occurOddNum(x):
     result = []

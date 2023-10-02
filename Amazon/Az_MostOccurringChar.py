@@ -1,11 +1,13 @@
 input = "Aaaaabbbbbcc".lower()
 
 # edge case - spaces
-#input_no_spaces = "".join(input.split())
 
-def mostOcurringChar(x):
+def mostOcurringChar(input):
     all_freq = {}
-    for char in x:
+
+    input_no_spaces = "".join(input.split())
+
+    for char in input_no_spaces:
         if char in all_freq:
             all_freq[char] += 1
         else:

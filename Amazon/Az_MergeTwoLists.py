@@ -1,6 +1,6 @@
 """ Merge two lists without duplicates """
 
-list1 = [1, 2, 4]
+list1 = [1, 2, 4, 7]
 list2 = [1, 3, 4]
 
 def mergeTwoLists(list1, list2):

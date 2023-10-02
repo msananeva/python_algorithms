@@ -6,8 +6,8 @@ that reverses each word from the input.
 input = "This is an awesome string"
 
 def reversedWords(x):
-    rev = " ".join(reversed(x.split()))
-    revWords = rev[::-1]
+    rev = " ".join(reversed(x.split())) #  string awesome an is This
+    revWords = rev[::-1] #  gnirts emosewa na si sihT
     return revWords
 
 print(reversedWords(input))
