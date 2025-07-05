@@ -1,11 +1,9 @@
 """
-"Creat method called split_string that takes two arguments,
+Create a method called split_string that takes two arguments,
 string and character, and it returns a list of substrings that are obtained
-from splitting the given string using the character as delimeter "
+from splitting the given string using the character as delimiter
 
 """
-
-
 
 input = "PythonPython"
 de = "t"
@@ -19,7 +17,7 @@ def split_string(x, d):
             result.append(temp)
             temp = ""
         else:
-            temp = temp + char
+            temp += char
     result.append(temp)
     return result
 

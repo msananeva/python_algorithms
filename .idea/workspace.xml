@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3b8f0d-8e63-4e55-b4f6-7d3d1d456fc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Amazon/Az_Ring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/Az_StrArr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/Az_AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_AA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_AddDigitsToStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_AddDigitsToStr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_AddNumsToStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_AddNumsToStr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_AllPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_AllPairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_Anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_AppearMoreThanN3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_AppearMoreThanN3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_ComboAndSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_ComboAndSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_DupWordsInString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_DupWordsInString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_DuplicatesInAString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_DuplicatesInAString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_DupsInString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_DupsInString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_LongestPalindromeInString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_LongestPalindromeInString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_MergeTwoLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_MergeTwoLists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_MostOccurringChar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_MostOccurringChar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_Move0ToEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_Move0ToEnd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_MultiplyAndPrintLastDigits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_MultiplyAndPrintLastDigits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_OddNumberOfChars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_OddNumberOfChars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_OddVsEven.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_OddVsEven.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_PairsAndSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_PairsAndSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_ReverseWordsInString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_ReverseWordsInString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Az_SumOfNumsInList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Az_SumOfNumsInList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Apple_SplitAString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apple_SplitAString.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,25 +33,36 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="28S1ixUkPSSwdNwjR8lPvjYVa77" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Apple_SplitAString.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mila/Desktop/macbook air/dev2/python_algorithms",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Amazon" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Az_AddDigitsToStr">
+  <component name="RunManager" selected="Python.Apple_SplitAString">
     <configuration name="Apple_SplitAString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithms" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -93,6 +84,7 @@
     </configuration>
     <configuration name="Az_AA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithms" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -112,8 +104,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Az_AddDigitsToStr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Az_ReverseArr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithms" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -124,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_AddDigitsToStr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_ReverseArr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,8 +126,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Az_FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Az_ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithms" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -145,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_FizzBuzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_ReverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,19 +148,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Az_Ring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="UKG_SpacesInString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithms" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon/Az_Ring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UKG_SpacesInString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Az_AddDigitsToStr" />
-        <item itemvalue="Python.Az_AA" />
-        <item itemvalue="Python.Az_FizzBuzz" />
         <item itemvalue="Python.Apple_SplitAString" />
-        <item itemvalue="Python.Az_Ring" />
       </list>
     </recent_temporary>
   </component>

@@ -3,6 +3,29 @@ Given Aaabbbcc, return 3a3b2c
 https://www.youtube.com/watch?v=mjZpZ_wcYFg
 """
 
+"""
+Create a method called split_string that takes two arguments,
+string and character, and it returns a list of substrings that are obtained
+from splitting the given string using the character as delimiter
+
+"""
+
+input = "Sandy is the best dog"
+de = "d"
+
+def split_string(x,d):
+    result = []
+    temp = ""
+    for char in x:
+        if char == d:
+            result.append(temp)
+            temp = ""
+        else:
+            temp += char
+    result.append(temp)
+    return result
+
+print(split_string(input, de))
 
 
 
