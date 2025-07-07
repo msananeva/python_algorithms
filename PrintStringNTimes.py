@@ -3,9 +3,9 @@
 
 def function():  # This will print Hello on 3 lines
     a = 3
-    b = 'Hello'
+    msg = 'Hello'
     for i in range(a):
-        print(b)
+        print(msg)
 
 function()
 
