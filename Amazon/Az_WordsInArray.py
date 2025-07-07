@@ -4,10 +4,10 @@ input = ["Mila", "Maxim", "Mila", "Sandy", "Sandy", ""]
 
 
 def dups(x):
-    arr = []
-    for el in x:
-        c = x.count(el)
-        if c > 1 and el not in arr:
-            arr.append(el)
-    return arr
+    result = []
+    for name in x:
+        occur = x.count(name)
+        if occur > 1 and name not in result:
+            result.append(name)
+    return result
 print(dups(input))
