@@ -4,16 +4,16 @@ Return 'True' if 'n' is a prime number. False otherwise
 """
 
 
-def is_prime(n):
-    if n == 1:
+def is_prime(num):
+    if num < 2:
         return False  # 1 is not prime
 
-    for d in range(2, n):
-        if n % d == 0:
+    for d in range(2, num):
+        if num % d == 0:
             return False
     return True
 
 
 # Test
-for n in range(1, 21):
-    print(n, is_prime(n))
+for num in range(1, 21):
+    print(num, is_prime(num))
